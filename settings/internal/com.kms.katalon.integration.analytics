@@ -1,0 +1,6 @@
+#Mon Nov 16 17:26:41 IST 2020
+analytics.testresult.autosubmit=true
+analytics.project="{\\n  \\"id\\"\: 83783,\\n  \\"name\\"\: \\"First Project\\",\\n  \\"teamId\\"\: 70682\\n}"
+analytics.authentication.token="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOlsia2l0Il0sImV4cCI6MTYwODExOTgwMCwidXNlcl9uYW1lIjoiaXJmYW5tQHJpc2t3YXRjaHNlcnZpY2VzLmNvbSIsImp0aSI6IjFiZDFlYTYxLWMzNjctNGQ1OS1iOTE3LWMyMzZmYTA4NWEzNSIsImNsaWVudF9pZCI6ImtpdF91cGxvYWRlciIsInNjb3BlIjpbInJlYWQiLCJ3cml0ZSJdfQ.f_oO1S-9zokC1pJfcSvoHmtMD0q3IZZsOA9ICCjpuqBEVA2DYOTDhKwIxrnXUnWw6DSejRqZbW8ACFa1sl-96g50ICnCvyMywnvcA6i5BE6L1nkwzqc7v5Mhq94Ir93Qp1MXVYDYLVRTmHJAtVrNQxKrbYe9kM9pbpcNuvVuS8vj8KYeoBm7G45KcmC9VeFj6Qy84G8WCWQBIFAWGa2HxSKV0GzT23TN4qysu2c3_hCkQy33GAOi8tlbbdvqrk1B1a-UYlcV0iTNe-mU3ngDXaazSYepRSS2ZjN33KPNc7ktCbScssSBJHKv5EuJJA9Hb7W7uKzt7H2svAu-06Rjdw"
+analytics.integration.enable=true
+analytics.team="{\\n  \\"id\\"\: 70682,\\n  \\"name\\"\: \\"My Team\\",\\n  \\"organization\\"\: {\\n    \\"id\\"\: 131225,\\n    \\"name\\"\: \\"Organization irfanm\\"\\n  }\\n}"
