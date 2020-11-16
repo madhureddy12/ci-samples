@@ -30,9 +30,8 @@ spec:
   }
   post {
         always {
-            archiveArtifacts artifacts:  'Reports/*/SW-UI-TestSuite/**/*.*', fingerprint: true
-            publishChecks detailsURL: 'https://github.com/madhureddy12/teskatalon.git', name: 'example', summary: 'katalaon results', title: 'katalaon'
-            junit 'Reports/*/SW-UI-TestSuite/**/JUnit_Report.xml'
+            archiveArtifacts artifacts:  'Reports/*/TS_RegressionTest/**/*.*', fingerprint: true
+            junit 'Reports/*/TS_RegressionTest/**/JUnit_Report.xml'
            
         }
      }
